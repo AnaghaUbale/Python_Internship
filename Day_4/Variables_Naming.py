@@ -18,7 +18,6 @@ print(myvar)
 print(my_var)
 print(_my_var)
 print(myVar)
-print(MYVAR)
 print(myvar2)
 
 #print(2myvar)
