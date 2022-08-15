@@ -1,0 +1,1 @@
+import randomprint(random.randrange(1,100))
